@@ -1,0 +1,19 @@
+Connecting to host 172.18.2.3, port 5201
+[  4] local 172.18.0.1 port 41372 connected to 172.18.2.3 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-1.00   sec  4.30 MBytes  36.0 Mbits/sec  550  
+[  4]   1.00-2.00   sec  4.77 MBytes  40.0 Mbits/sec  610  
+[  4]   2.00-3.00   sec  4.77 MBytes  40.0 Mbits/sec  611  
+[  4]   3.00-4.00   sec  4.77 MBytes  39.9 Mbits/sec  610  
+[  4]   4.00-5.00   sec  4.80 MBytes  40.3 Mbits/sec  615  
+[  4]   5.00-6.00   sec  4.74 MBytes  39.8 Mbits/sec  607  
+[  4]   6.00-7.01   sec  4.76 MBytes  39.7 Mbits/sec  609  
+[  4]   7.01-8.00   sec  4.79 MBytes  40.3 Mbits/sec  613  
+[  4]   8.00-9.01   sec  4.78 MBytes  39.9 Mbits/sec  612  
+[  4]   9.01-10.00  sec  4.75 MBytes  40.0 Mbits/sec  608  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-10.00  sec  47.2 MBytes  39.6 Mbits/sec  4.121 ms  1091/6003 (18%)  
+[  4] Sent 6003 datagrams
+
+iperf Done.
